@@ -1,0 +1,13 @@
+
+The car model was created by Melkor, and distributed under the CC-BY-NC-SA license:
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+The cars_car.obj model was taken from cheapie's non-laggy cars mod (https://github.com/cheapie/cars/blob/master/README), and is also CC-BY-NC-SA.
+
+All of the goblin code and art are taken from FreeLikeGNU's Goblins mod,
+distributed under the CC-by-SA license.
+
+https://forum.minetest.net/viewtopic.php?f=9&t=13004&hilit=goblins
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Many of the creatures were created by D00Med <heiselong@gmx.com> and are distributed under CC BY-SA 3.0.

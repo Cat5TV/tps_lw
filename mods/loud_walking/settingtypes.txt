@@ -1,0 +1,32 @@
+# Size of pods in the x-axis.
+loud_walking_pod_size_x (Pod Size - X) int 100
+
+# Size of pods in the y-ayis.
+loud_walking_pod_size_y (Pod Size - Y) int 100
+
+# Size of pods in the z-azis.
+loud_walking_pod_size_z (Pod Size - Z) int 100
+
+# Length of bridges.
+loud_walking_bridge_size (Bridge Size) int 50
+
+# Vertical separation between pods.
+loud_walking_vertical_sep (Vertical Separation) int 300
+
+# Set to false if you're using an armor mod.
+loud_walking_use_armor_elixirs (Use Armor Elixirs) bool true
+
+# If set, you will lose the effects of elixirs when you die.
+loud_walking_expire_elixir_on_death (Elixirs Expire On Death) bool true
+
+# Unset this to make wood breakable by hand.
+loud_walking_breakable_wood (Breakable Wood) bool true
+
+# Set to give wooden tools to starting players.
+loud_walking_starting_equipment (Starting Equipment) bool false
+
+# Set to use experimental leaf decay.
+loud_walking_quick_leaf_decay (Experimental Decay) bool false
+
+# Rarity of goblins from 0 to 10
+loud_walking_goblin_rarity (Goblin Rarity) int 2
